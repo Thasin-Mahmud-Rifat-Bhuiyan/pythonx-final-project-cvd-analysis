@@ -15,8 +15,5 @@ https://www.kaggle.com/datasets/colewelkins/cardiovascular-disease
 - Logistic Regression
 - Decision Tree Classifier
 
-## 📈 Results
-(Add your accuracy here)
-
 ## 🚀 Tools
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn
